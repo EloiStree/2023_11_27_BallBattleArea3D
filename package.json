@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.hercballbatlearena3d",                              
+  "displayName": "HeRC Ball Battle Arena 3D",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Package with the default arena use in Hello Car RC (HeRC)",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2023_11_27_HeRC_BallBattleArea3D.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
