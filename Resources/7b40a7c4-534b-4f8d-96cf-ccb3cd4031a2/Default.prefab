@@ -508,7 +508,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3696387811805742983}
   m_Layer: 0
-  m_Name: HeRCArena
+  m_Name: Default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
